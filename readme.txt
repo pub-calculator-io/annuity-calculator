@@ -9,41 +9,29 @@ License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 Annuity calculator that uses the formula FV = PV (1 + R)^n to help investors calculate annuity growth over time and make retirement decisions.
 
-== Description ==
-
-Annuity calculator that uses the formula FV = PV (1 + R)^n to help investors calculate annuity growth over time and make retirement decisions.
-
 [https://www.calculator.io/annuity-calculator/](https://www.calculator.io/annuity-calculator/)
 
-__Annuity Calculator Shortcode__
+== Usage ==
+
+Add the Annuity Calculator shortcode to your page, post or sidebar:
 
 `[ci_annuity_calculator]`
 
-== Installation ==
+Add the following code to your template where you would like the Annuity Calculator to appear:
 
-1. Upload the /ci_annuity_calculator/ folder to the /wp-content/plugins/ directory.
-2. Activate the [Annuity Calculator](https://www.calculator.io/annuity-calculator/ "Annuity Calculator Homepage") plugin through the "Plugins" menu in WordPress.
-
-== Annuity Calculator Usage ==
-
-* Add the shortcode `[ci_annuity_calculator]` to your page, post or sidebar.
-* Add the following code: `<?php display_ci_annuity_calculator(); ?>` to your template where you would like the Annuity Calculator to appear.
+`<?php display_ci_annuity_calculator(); ?>`
 
 == Screenshots ==
 
 1. The Annuity Calculator Input Form.
 2. The Annuity Calculator Calculation Results.
 
-== Libraries used in Annuity Calculator ==
+== Installation ==
 
-1. https://mathjs.org/
-2. https://katex.org/
-3. https://github.com/aFarkas/lazysizes
-4. https://github.com/RobinHerbots/Inputmask
-5. https://air-datepicker.com/
-6. https://www.chartjs.org/
+1. Upload the Annuity Calculator /ci_annuity_calculator/ folder to the /wp-content/plugins/ directory.
+2. Activate the Annuity Calculator plugin through the "Plugins" menu in WordPress.
 
 == Changelog ==
 
 = 1.0.0 =
-* Initial release
+* Initial release of Annuity Calculator
