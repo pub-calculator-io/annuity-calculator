@@ -1,6 +1,6 @@
 === Annuity Calculator by Calculator.iO ===
 Contributors: calculatorio
-Tags: 
+Tags: annuity calculator, retirement annuity estimation, present value annuity calculator, annuity payout calculator, future value of annuity, fixed annuity calculator, annuity investment calculator, immediate annuity calculation, annuity savings calculator
 Requires at least: 5.0
 Tested up to: 6.4.0
 Stable tag: 1.0.0
