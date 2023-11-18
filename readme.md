@@ -1,4 +1,4 @@
-# Annuity Calculator WordPress Widget by [Calculator.iO](https://www.calculator.io/ "Calculator.iO Homepage")
+# Annuity Calculator Widget for WordPress
 
 Annuity calculator that uses the formula FV = PV (1 + R)^n to help investors calculate annuity growth over time and make retirement decisions.
 
