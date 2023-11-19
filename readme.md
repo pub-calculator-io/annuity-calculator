@@ -7,7 +7,7 @@ Annuity calculator that uses the formula FV = PV (1 + R)^n to help investors cal
 
 ## Installation
 
-1. [Download](https://github.com/pub-calculator-io/age-calculator/archive/refs/heads/master.zip) the ZIP file of this repository.
+1. [Download](https://github.com/pub-calculator-io/annuity-calculator/archive/refs/heads/master.zip) the ZIP file of this repository.
 2. Upload the /annuity-calculator-master/ folder to the /wp-content/plugins/ directory.
 3. Activate the [Annuity Calculator](https://www.calculator.io/annuity-calculator/ "Annuity Calculator Homepage") plugin through the "Plugins" menu in WordPress.
 
