@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Annuity Calculator by www.calculator.io
+Plugin Name: CI Annuity calculator
 Plugin URI: https://www.calculator.io/annuity-calculator/
 Description: Annuity calculator that uses the formula FV = PV (1 + R)^n to help investors calculate annuity growth over time and make retirement decisions.
 Version: 1.0.0
