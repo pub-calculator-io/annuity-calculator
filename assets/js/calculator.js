@@ -150,7 +150,7 @@ function drawAnnualSchedule(data, dataKey, separator = false) {
         lineHtml += '</tr>';
 
         if (currentMonth && separator && currentMonth % 12 === 0) {
-            lineHtml += '<th class="indigo text-center" colspan="5">Year #' + currentMonth / 12 + ' End</th>';
+            lineHtml += '<th class="indigo text-center" colspan="5">Year ' + currentMonth / 12 + ' End</th>';
         }
 
         _(containerName).insertAdjacentHTML('beforeEnd', lineHtml);

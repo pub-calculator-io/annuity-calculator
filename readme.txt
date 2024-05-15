@@ -7,7 +7,7 @@ Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-Annuity calculator that uses the formula FV = PV (1 + R)^n to help investors calculate annuity growth over time and make retirement decisions.
+Annuity calculator that uses the formula FV = PV (1 + R)ⁿ to help investors calculate annuity growth over time and make retirement decisions.
 
 [https://www.calculator.io/annuity-calculator/](https://www.calculator.io/annuity-calculator/)
 
@@ -24,7 +24,6 @@ Add the following code to your template where you would like the Annuity Calcula
 == Screenshots ==
 
 1. The Annuity Calculator Input Form.
-2. The Annuity Calculator Calculation Results.
 
 == Installation ==
 
